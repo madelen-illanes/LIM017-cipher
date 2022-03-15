@@ -40,7 +40,3 @@ const botondescifrar = document.getElementById("descifrar-btn");
    });
       
 
-
- //console.log(offset,string)
-// console.log(cipher.encode(offset, string))
- //console.log(cipher.decode(offset,string))
